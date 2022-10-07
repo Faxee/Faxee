@@ -1,0 +1,5 @@
+- 👋 Hey! Jeg er @Faxee
+- 👀 Jeg interessere mig indenfor programmering.
+- 🌱 Jeg lærer lige nu omkring: .NET, Lua, C# og C++
+- 💞️ Jeg arbejder lige på Index [FiveM]
+- 📫 Kontakt mig på discord: Faxe#7022
